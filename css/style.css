@@ -1,0 +1,33 @@
+#home
+{
+    color: red;
+    font-size: 12px;
+    text-align:right;
+}
+.nav
+{
+    color: white;
+    font-size: 12px;
+    right:auto;
+    display: flex;
+    align-items: right;
+    flex-direction: row;
+}
+.title
+{
+   color: white;
+   font-size: 25px;
+   text-align: left;
+   width: 124px;
+   height: 25px;
+   font-weight: bold;
+   padding-left: 40px;
+   padding-top: 29px;
+
+}
+.header
+{
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+}
