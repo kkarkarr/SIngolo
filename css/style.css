@@ -25,6 +25,12 @@
     font-family: "Lato-Bold";
     text-decoration: none;
 }
+.nav span{
+    color: white;
+    font-size: 12px;
+    font-family: "Lato-Bold";
+    text-decoration: none;
+}
 .nav div
 {
     width: 375px;
@@ -65,4 +71,44 @@
     padding-left: 40px;
     padding-top: 34px;
     padding-bottom: 25px;
+}
+.slider
+{
+    background-color: #F06C64;
+    height: 590px;
+    width: 1020px;
+    border: #EA676B solid 6px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+}
+.left
+{
+    width: 16px;
+    height: 27px;
+    padding-left: 40px;
+    padding-top: 278px;
+}
+.right
+{
+    width: 16px;
+    height: 27px;
+    padding-left: 905px;
+    padding-top: 278px;
+}
+.phone_vertical
+{
+  position: absolute;
+  width: 240px;
+  height: 483px;
+  padding-left: 112px;
+  top: 149px;
+}
+.phone_horizontal
+{
+position: absolute;
+width: 482px;
+height: 240px;
+padding-left: 425px;
+top: 272px;
 }
