@@ -620,3 +620,248 @@ top: 272px;
     left: 760px;
     padding-top: 414px;
 }
+.about_us
+{
+    width: 1020px;
+    height: 728px;
+    background-color: #F2F2F2;
+    border: #FFFFFF solid 6px;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+}
+.about_us_section_header_name
+{
+    width: 130px;
+    height: 40px;
+    position: absolute;
+    padding-left: 40px;
+    top: 2124px;
+}
+.about_us_section_heder_description
+{
+    width: 936px;
+    height: 47px;
+    position: absolute;
+    padding-left: 40px;
+    top: 2160px;
+}
+.about_us_section_heder_description pre
+{
+    font-family: "Lato-Light";
+    color: #767E9E;
+    font-size: 18px;
+    line-height: 30px;
+    font-weight:300;
+    word-spacing: 0.08em;
+}
+.profile
+{
+    width: 940px;
+    height: 443px;
+    position: absolute;
+    padding-left: 40px;
+    top: 2282px;
+}
+.profile_1
+{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+}
+.profile_2
+{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    left: 360px;
+}
+.profile_3
+{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    left: 680px;
+}
+.profile_description_1
+{
+    width: 300px;
+    height: 82px;
+    position: absolute;
+    padding-top: 305px;
+}
+.profile_description_1 h1
+{
+    color: #666D89;
+    font-family: "Lato-Black";
+    font-size: 18px;
+    line-height: 18px;
+    font-weight: 900;
+}
+.profile_description_1 pre
+{
+    color: #767E9E;
+    font-family: "Lato-Regular";
+    font-size: 12px;
+    line-height: 22px;
+    font-weight: 400;
+    position: absolute;
+    top: 333px;
+}
+.profile_description_1 span
+{
+    word-spacing: 0.38em;
+}
+.profile_description_2
+{
+    width: 300px;
+    height: 82px;
+    position: absolute;
+    left: 360px;
+    padding-top: 305px;
+}
+.profile_description_2 h1
+{
+    color: #666D89;
+    font-family: "Lato-Black";
+    font-size: 18px;
+    line-height: 18px;
+    font-weight: 900;
+}
+.profile_description_2 pre
+{
+    color: #767E9E;
+    font-family: "Lato-Regular";
+    font-size: 12px;
+    line-height: 22px;
+    font-weight: 400;
+    position: absolute;
+    top: 333px;
+}
+.profile_description_2 span
+{
+    word-spacing: 0.1em;
+}
+.profile_description_3
+{
+    width: 300px;
+    height: 82px;
+    position: absolute;
+    left: 680px;
+    padding-top: 305px;
+}
+.profile_description_3 h1
+{
+    color: #666D89;
+    font-family: "Lato-Black";
+    font-size: 18px;
+    line-height: 18px;
+    font-weight: 900;
+}
+.profile_description_3 pre
+{
+    color: #767E9E;
+    font-family: "Lato-Regular";
+    font-size: 12px;
+    line-height: 22px;
+    font-weight: 400;
+    position: absolute;
+    top: 333px;
+}
+.profile_description_3 span
+{
+    word-spacing: 0.06em;
+}
+.ico_facebook_1
+{
+    width: 32px;
+    height: 32px;
+    position: absolute;
+    top: 410px;
+}
+.ico_google_plus_1
+{
+    width: 32px;
+    height: 32px;
+    position: absolute;
+    padding-left: 40px;
+    top: 410px;
+}
+.ico_twitter_1
+{
+    width: 32px;
+    height: 32px;
+    position: absolute;
+    padding-left: 80px;
+    top: 410px;
+}
+.ico_linkedin_1
+{
+    width: 32px;
+    height: 32px;
+    position: absolute;
+    padding-left: 120px;
+    top: 410px;
+}
+.ico_facebook_2
+{
+    width: 32px;
+    height: 32px;
+    position: absolute;
+    top: 410px;
+}
+.ico_google_plus_2
+{
+    width: 32px;
+    height: 32px;
+    position: absolute;
+    padding-left: 40px;
+    top: 410px;
+}
+.ico_twitter_2
+{
+    width: 32px;
+    height: 32px;
+    position: absolute;
+    padding-left: 80px;
+    top: 410px;
+}
+.ico_linkedin_2
+{
+    width: 32px;
+    height: 32px;
+    position: absolute;
+    padding-left: 120px;
+    top: 410px;
+}
+.ico_facebook_3
+{
+    width: 32px;
+    height: 32px;
+    position: absolute;
+    top: 410px;
+}
+.ico_google_plus_3
+{
+    width: 32px;
+    height: 32px;
+    position: absolute;
+    padding-left: 40px;
+    top: 410px;
+}
+.ico_twitter_3
+{
+    width: 32px;
+    height: 32px;
+    position: absolute;
+    padding-left: 80px;
+    top: 410px;
+}
+.ico_linkedin_3
+{
+    width: 32px;
+    height: 32px;
+    position: absolute;
+    padding-left: 120px;
+    top: 410px;
+}
