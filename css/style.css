@@ -1123,3 +1123,53 @@ top: 272px;
     font-weight: 400;
     padding-left: 8px;
 }
+.end
+{
+    width: 1020px;
+    height: 76px;
+    background-color: #2D303A;
+}
+.right
+{
+    font-size: 13px;
+    font-family: "Lato-Black";
+    line-height: 22px;
+    color: #666D89;
+    width: 218px;
+    height: 17px;
+    position: absolute;
+    padding-left: 40px;
+    padding-top: 15px;
+}
+.end_ico_facebook
+{
+    height: 32px;
+    width: 32px;
+    position: absolute;
+    padding-left: 826px;
+    padding-top: 20px;
+}
+.end_ico_google_plus
+{
+    height: 32px;
+    width: 32px;
+    position: absolute;
+    padding-left: 866px;
+    padding-top: 20px;
+}
+.end_ico_twitter
+{
+    height: 32px;
+    width: 32px;
+    position: absolute;
+    padding-left: 906px;
+    padding-top: 20px;
+}
+.end_ico_linkedin
+{
+    height: 32px;
+    width: 32px;
+    position: absolute;
+    padding-left: 946px;
+    padding-top: 20px;
+}
